@@ -1,0 +1,12 @@
+Copyright (c) 2026 xec412
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+modify, and study the Software **for educational purposes and authorized
+security testing only**.
+
+You **may NOT** use, distribute, or sell the Software for any commercial or
+malicious purposes.
+
+The Software is provided "as is", without warranty of any kind. The author
+is not liable for any damage or misuse resulting from the use of the Software.
