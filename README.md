@@ -32,25 +32,14 @@ ShadeCrypt is a Windows-native payload transformation toolkit built for red team
 ## 📸 Screenshots
 
 ### CLI Interface
-![CLI Demo](docs/screenshots/cli-demo.png)
+![CLI Demo](docs/screenshots/cli-demo.png.png)
 
-### Encryption Outputs
-![XOR Encryption](docs/screenshots/xor-encryption.png)
-![Tiny-AES Encryption](docs/screenshots/tiny-aes.png)
+### Encryption Output Samples
 ![ChaCha20 Encryption](docs/screenshots/chacha20-encryption.png)
 ![Salsa20 Encryption](docs/screenshots/salsa20-encryption.png)
 
-### Decrypt Templates
-![Decryptions](docs/screenshots/decryptions.png)
-
 ### Obfuscation Outputs
-![Obfuscations](docs/screenshots/obfuscations.png)
-
-### Deobfuscate Templates
-![Uuid Deobfuscation](docs/screenshots/uuid-deobfuscation.png)
-![IPv6 Deobfuscation](docs/screenshots/ipv6-deobfuscation.png)
-![Mac Deobfuscation](docs/screenshots/mac-deobfuscation.png)
-
+![Obfuscations](docs/screenshots/obfuscations.png.png)
 
 ## 🔧 **Installation**
 
