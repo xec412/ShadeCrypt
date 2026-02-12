@@ -32,7 +32,7 @@ ShadeCrypt is a Windows-native payload transformation toolkit built for red team
 ## 📸 Screenshots
 
 ### CLI Interface
-![CLI Demo](docs/screenshots/cli-demo.png.png)
+![CLI Demo](docs/screenshots/cli-demo.png)
 
 ### Encryption Output Samples
 ![ChaCha20 Encryption](docs/screenshots/chacha20-encryption.png)
