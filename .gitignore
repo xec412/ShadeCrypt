@@ -1,0 +1,22 @@
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.idb
+
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.suo
+*.user
+*.sln.docstates
+
+# Output files
+*.bin
+out.bin
+encrypted.bin
