@@ -4,7 +4,21 @@ A modular payload encryption, encoding, and obfuscation tool for security resear
 
 ## Overview
 
-ShadeCrypt is a command-line utility designed to transform binary payloads through multiple cryptographic and obfuscation layers. Inspired by techniques from [MalDevAcademy](https://maldevacademy.com) and their [HellShell](https://github.com/maldevacademy/hellshell) project, this tool provides a practical implementation of payload transformation workflows commonly used in offensive security research.
+ShadeCrypt is a command-line utility designed to transform binary payloads through multiple cryptographic and obfuscation layers. Inspired by techniques from [MalDevAcademy](https://maldevacademy.com) and their [HellShell](https://github.com/NUL0x4C/HellShell) project, this tool provides a practical implementation of payload transformation workflows commonly used in offensive security research.
+
+## Screenshots
+
+### Sample 1
+![Sample 1](docs/screenshots/sample1.png)
+
+### Sample 2
+![Sample 2](docs/screenshots/sample2.png)
+
+### Sample 3
+![Sample 3](docs/screenshots/sample3.png)
+
+### Sample 4
+![Sample 4](docs/screenshots/sample4.png)
 
 ## Features
 
